@@ -1,0 +1,87 @@
+{
+    "success": true,
+    "data": {
+      "443200": {
+        "id": 443200,
+        "title": "The Evil Within",
+        "kind": "game",
+        "tags": [],
+        "description": "Developed by Tango Gameworks and directed by Resident Evil series creator Shinji Mikami, The Evil Within embodies pure survival horror. \n\nAs Detective Sebastian Castellanos, fight for survival with limited resources in a twisted world of nightmares.",
+        "rating": -1,
+        "copyright": "Bethesda Softworks LLC",
+        "until": 1698332400,
+        "type": "free",
+        "urls": {
+          "default": "https://redirect.freestuffbot.xyz/game/GYpU#The-Evil-Within",
+          "browser": "https://redirect.freestuffbot.xyz/game/GYpU#The-Evil-Within",
+          "org": "https://store.epicgames.com/p/the-evil-within",
+          "client": "https://redirect.freestuffbot.xyz/game/mviK"
+        },
+        "flags": 0,
+        "notice": "",
+        "meta": [
+          {
+            "key": "epic.id",
+            "value": "087155540ecc47239c98c1265b40ba99",
+            "_id": "65281050574bb5e808f2667c"
+          },
+          {
+            "key": "epic.namespace",
+            "value": "d602fd70876141ba9bf4d54809c423d1",
+            "_id": "65281050574bb5e808f2667d"
+          },
+          {
+            "key": "scraper.sources",
+            "value": "ak.epicgames.com",
+            "_id": "65281050574bb5e808f2667e"
+          },
+          {
+            "key": "slug",
+            "value": "the-evil-within",
+            "_id": "65281050574bb5e808f2667f"
+          },
+          {
+            "key": "scraper.version",
+            "value": "epic-fgp-api:1.0",
+            "_id": "65281050574bb5e808f26680"
+          }
+        ],
+        "price": {
+          "usd": 0,
+          "eur": 0,
+          "btc": 0,
+          "bgn": 0,
+          "huf": 0,
+          "gbp": 0,
+          "brl": 0,
+          "pln": 0,
+          "euro": 0,
+          "dollar": 0
+        },
+        "org_price": {
+          "usd": 19.99,
+          "eur": 19.99,
+          "btc": 0.0007043536469999999,
+          "bgn": 37.06,
+          "huf": 7319.78,
+          "gbp": 16.38,
+          "brl": 100.73,
+          "pln": 84.42,
+          "euro": 19.99,
+          "dollar": 19.99
+        },
+        "url": "https://redirect.freestuffbot.xyz/game/GYpU#The-Evil-Within",
+        "org_url": "https://store.epicgames.com/p/the-evil-within",
+        "thumbnail": {
+          "org": "https://cdn1.epicgames.com/offer/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithin_TangoGameworks_S2_1200x1600-18ffb6d4859f8f05d21833f7b8f4a2c7",
+          "blank": "https://cdn1.epicgames.com/offer/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithin_TangoGameworks_S2_1200x1600-18ffb6d4859f8f05d21833f7b8f4a2c7",
+          "full": "https://cdn1.epicgames.com/offer/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithin_TangoGameworks_S2_1200x1600-18ffb6d4859f8f05d21833f7b8f4a2c7",
+          "tags": "https://cdn1.epicgames.com/offer/d602fd70876141ba9bf4d54809c423d1/EGS_TheEvilWithin_TangoGameworks_S2_1200x1600-18ffb6d4859f8f05d21833f7b8f4a2c7"
+        },
+        "store": "epic",
+        "store_meta": {
+          "steam_subids": ""
+        }
+      }
+    }
+  }
