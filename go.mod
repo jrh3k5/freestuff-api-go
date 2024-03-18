@@ -5,7 +5,7 @@ go 1.21.3
 require (
 	github.com/jarcoal/httpmock v1.3.1
 	github.com/onsi/ginkgo/v2 v2.16.0
-	github.com/onsi/gomega v1.30.0
+	github.com/onsi/gomega v1.32.0
 )
 
 require (
@@ -17,6 +17,5 @@ require (
 	golang.org/x/sys v0.16.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	golang.org/x/tools v0.17.0 // indirect
-	google.golang.org/protobuf v1.33.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
