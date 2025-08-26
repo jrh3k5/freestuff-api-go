@@ -6,7 +6,7 @@ toolchain go1.23.3
 
 require (
 	github.com/jarcoal/httpmock v1.4.1
-	github.com/onsi/ginkgo/v2 v2.24.0
+	github.com/onsi/ginkgo/v2 v2.25.1
 	github.com/onsi/gomega v1.38.0
 )
 
