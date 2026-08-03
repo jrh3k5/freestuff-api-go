@@ -3,7 +3,7 @@ module github.com/jrh3k5/freestuff-api-go
 go 1.25.0
 
 require (
-	github.com/jarcoal/httpmock v1.4.1
+	github.com/jarcoal/httpmock v1.4.2
 	github.com/onsi/ginkgo/v2 v2.28.3
 	github.com/onsi/gomega v1.40.0
 )
